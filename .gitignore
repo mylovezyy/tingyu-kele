@@ -1,0 +1,6 @@
+bean/target/
+mapper/target/
+service/target/
+test/target/
+util/target/
+web/target/
